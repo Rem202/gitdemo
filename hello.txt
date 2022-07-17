@@ -22,4 +22,5 @@ hello mingrem!
 hello mingrem!
 hello mingrem!
 hello mingrem!
-this is new information
+this is new informaion
+this is new information from hot-fix branch!
